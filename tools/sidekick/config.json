@@ -1,6 +1,6 @@
 {
     "project": "AA NZ",
-    "host": "www.securbankdemo.com",
+    "host": "main--aanz--wfranksadobe.hlx.live",
     "plugins": [
         {
           "id": "library",
